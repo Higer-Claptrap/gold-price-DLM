@@ -3,4 +3,4 @@ The implementation of Bayesian forecasting using Dynamic Linear Model to predict
 
 For further explanation on the code, check out my videos: <br>
 The video for gold price is [here](https://youtu.be/68WBL0-zlhc). <br>
-The video for forecast with unknown parameter is [here](https://youtu.be/Nwt-hejBzzM)
+The video for forecast with unknown parameter is [here](https://youtu.be/NG-FjdU0UEk)
